@@ -1,0 +1,16 @@
+{
+  "name": "api-with-d9",
+  "version": "1.0.0",
+  "description": "api using d9 and deployed with webcapsule",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ariga/atlas": "^0.17.0",
+    "@wbce-d9/directus9": "^9.26.9",
+    "pg": "^8.11.3"
+  }
+}
