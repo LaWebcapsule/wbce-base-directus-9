@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ariga/atlas": "^0.17.0",
+    "@ariga/atlas": "^0.26.0",
     "@wbce-d9/directus9": "^9.26.9",
     "pg": "^8.11.3"
   }
